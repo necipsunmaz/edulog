@@ -3,3 +3,17 @@
 ################################################################################
 
 /.vs
+/src/application/EduLog.Business/obj
+/src/application/EduLog.Business/bin/Debug/netcoreapp3.1
+/src/application/EduLog.Core/obj
+/src/application/EduLog.Core/bin/Debug/netcoreapp3.1
+/src/application/EduLog.DataAccess/bin/Debug/netcoreapp3.1
+/src/application/EduLog.DataAccess/obj
+/src/application/EduLog.Entities/bin/Debug/netcoreapp3.1
+/src/application/EduLog.Entities/obj
+/src/services/EduLog.Web.Api/bin/Debug/netcoreapp3.1
+/src/services/EduLog.Web.Api/obj
+/tests/EduLog.Application.Test/bin/Debug/netcoreapp3.1
+/tests/EduLog.Application.Test/obj
+/tests/EduLog.Services.Test/bin/Debug/netcoreapp3.1
+/tests/EduLog.Services.Test/obj
